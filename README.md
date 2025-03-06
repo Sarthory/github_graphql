@@ -21,3 +21,6 @@ Once all the prerequisites are satisfied, you'll need to perform the following s
 ## Result
 
 Running the program successfully should reveal in the console the result of the GraphQL query (1 issue).
+
+## Fixed GraphQL query/response error
+![image](https://github.com/user-attachments/assets/8ac07331-a4aa-42bf-8cf6-26e2f6ec2368)
